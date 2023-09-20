@@ -1,7 +1,7 @@
-﻿10000 2x4
-100 pvc
-500 sheet rock
-500 bags concrete
-10000 bricks
-30 gallons paint
+﻿100 2x4
+5 pvc
+3 sheet rock
+5 bags concrete
+100 bricks
+10 gallons paint
 
