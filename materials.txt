@@ -1,0 +1,7 @@
+﻿10000 2x4
+100 pvc
+500 sheet rock
+500 bags concrete
+10000 bricks
+30 gallons paint
+
