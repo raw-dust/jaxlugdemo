@@ -6,3 +6,5 @@ Bedroom 3
 Bathroom 2
 Kitchen
 Dining Room
+Pool
+Jacuzzi
